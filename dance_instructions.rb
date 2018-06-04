@@ -1,3 +1,3 @@
 
 # Code your methods below
-def_
+def_assume the proper stance
