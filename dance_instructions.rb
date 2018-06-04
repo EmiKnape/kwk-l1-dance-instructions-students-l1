@@ -5,3 +5,6 @@ def dance_instructions
   puts "lift right foot"
   puts "Return the right foot to the ground"
   puts "Finish with a small skip-step backward"
+  puts "Lower left foot to the ground"
+  puts "Bounce right foot back up slightly, kicking it a few inches back"
+  puts "Right, left, Right and Right"
